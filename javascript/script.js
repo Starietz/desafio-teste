@@ -1,5 +1,5 @@
 let nome = "Emerson"
-let quantidadeXp = 5005
+let quantidadeXp = 10002
 let nivel = ""
 
 if (quantidadeXp < 1001) {
@@ -16,7 +16,7 @@ if (quantidadeXp < 1001) {
   nivel = "Ascendente"
 } else if (quantidadeXp >= 9001 && quantidadeXp <= 10000) {
   nivel = "Imortal"
-} else if (quantidadeXp >= 10001) {
+} else {
   nivel = "Radiante"
 }
 
