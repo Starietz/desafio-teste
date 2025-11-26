@@ -18,4 +18,4 @@ let quantidadeXp = 5005
  }else {
     console.log("Você é Radiante")
  }
- console.log("O herói :" + nome + " está no nível " + quantidadeXp)
+ console.log("O herói de nome :" + nome + " está no nível de " + quantidadeXp)
