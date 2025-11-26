@@ -1,7 +1,7 @@
 let nome = "Emerson"
 let quantidadeXp = 5005
 
- if(quantidadeXp <= 1000){
+ if(quantidadeXp < 1000){
     console.log("Você é Ferro")
  }else if (quantidadeXp >= 1001 && quantidadeXp <= 2000){
     console.log("Você é Bronze")
